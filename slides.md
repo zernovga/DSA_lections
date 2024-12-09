@@ -10,11 +10,11 @@ theme: sirius-college
 
 <!-- <Toc maxDepth="1" minDepth="1"/> -->
 
-<a href="/3">Лекция 1. Алгоритмы</a>
+<a href="/DSA_lections/3">Лекция 1. Алгоритмы</a>
 
-<a href="/24">Лекция 2. Числовые алгоритмы</a>
+<a href="/DSA_lections/24">Лекция 2. Числовые алгоритмы</a>
 
-<a href="/37">Лекция 3. Сортировка</a>
+<a href="/DSA_lections/37">Лекция 3. Сортировка</a>
 
 ---
 src: ./pages/lection_1/slides.md
